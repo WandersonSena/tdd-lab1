@@ -1,0 +1,7 @@
+Na figura acima vemos que o processo para a criação de um teste funcional é
+realizado através da construção de testes de unidade. Dessa forma, para criarmos
+um teste de unidade nós escrevemos o teste, rodamos ele, e escrevemos o minimo
+de código para que ele rode.
+Para o teste funcional, durante a escrita do código é preciso criar um teste de
+unidade. Nessa etapa voltamos no ciclo acima, no qual criamos o teste e escrevemos
+o código até que ele não precise de refatorações e o teste passe.
