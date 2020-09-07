@@ -44,3 +44,10 @@ ory.
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 1599507060352	Marionette	INFO	Listening on port 65508
 1599507060612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599507306730	Marionette	INFO	Stopped listening on port 65508
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
